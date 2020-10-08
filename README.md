@@ -1,2 +1,2 @@
-# AngularBo-Proje
+# AngularBos-Proje
 Angular Boş Hazır Proje
